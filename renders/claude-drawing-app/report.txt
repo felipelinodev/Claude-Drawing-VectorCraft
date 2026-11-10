@@ -1,0 +1,14 @@
+=== claude-drawing-app.svg ===
+viewBox: 0 0 512 512
+Caixa do desenho (bbox, unidades do viewBox): x=0 y=0 w=512 h=512
+Margens: esq 0.0% · dir 0.0% · topo 0.0% · base 0.0%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (256, 256) → dx +0.0% · dy +0.0%
+Simetria espelhada: horizontal 90.8% · vertical 90.7%
+Cobertura: 100.0% do canvas · 100.0% da bbox
+Cores sólidas: #f4f0e8 95.0% · #1c1c18 2.5% · #d86438 2.2%
+Avisos:
+  - O desenho encosta na borda do viewBox — pode estar cortado.
+  - Quase simétrico na horizontal (90.8%): se a intenção é simetria, há desvios — veja o mapa de simetria.
+  - Logo muito claro: tende a sumir em fundo branco — prever versão escura.
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\claude-drawing-app\sheet.png

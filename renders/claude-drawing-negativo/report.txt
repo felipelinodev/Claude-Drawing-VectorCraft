@@ -1,0 +1,11 @@
+=== claude-drawing-negativo.svg ===
+viewBox: 0 0 960 340
+Caixa do desenho (bbox, unidades do viewBox): x=88.13 y=50.72 w=783.75 h=238.56
+Margens: esq 9.2% · dir 9.2% · topo 14.9% · base 14.9%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (517.07, 179.64) → dx +3.9% · dy +2.8%
+Simetria espelhada: horizontal 8.1% · vertical 15.8%
+Cobertura: 11.0% do canvas · 19.3% da bbox
+Cores sólidas: #f4f0e8 87.5% · #d86438 12.3%
+Avisos: nenhum
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\claude-drawing-negativo\sheet.png

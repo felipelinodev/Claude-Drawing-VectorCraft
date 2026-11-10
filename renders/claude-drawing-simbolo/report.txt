@@ -1,0 +1,12 @@
+=== claude-drawing-simbolo.svg ===
+viewBox: 0 0 231.2 211.7
+Caixa do desenho (bbox, unidades do viewBox): x=0 y=0 w=231.2 h=211.7
+Margens: esq 0.0% · dir 0.0% · topo 0.0% · base 0.0%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (123.79, 116.65) → dx +3.5% · dy +5.1%
+Simetria espelhada: horizontal 4.9% · vertical 4.1%
+Cobertura: 13.4% do canvas · 13.4% da bbox
+Cores sólidas: #1c1c18 53.6% · #d86438 46.2%
+Avisos:
+  - O desenho encosta na borda do viewBox — pode estar cortado.
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\claude-drawing-simbolo\sheet.png

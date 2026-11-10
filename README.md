@@ -1,7 +1,8 @@
 # Claude Drawing
 
-![Claude Drawing — Banner promocional](./Banner%20promocional%20do%20Claude%20Drawing.png)
-
+<p align="center">
+  <img src="./Banner%20promocional%20do%20Claude%20Drawing.png" alt="Claude Drawing — Banner promocional" width="100%">
+</p>
 **Criação de logotipos e identidades visuais profissionais utilizando Claude Code + VectorCraft MCP.**
 
 O Claude Drawing é um projeto que nasceu da união entre duas áreas pelas quais sempre tive interesse: design e desenvolvimento de software.

@@ -1,0 +1,12 @@
+=== spicchio.svg ===
+viewBox: 0 0 1152 296
+Caixa do desenho (bbox, unidades do viewBox): x=72 y=71.76 w=1008 h=152.48
+Margens: esq 6.3% · dir 6.3% · topo 24.2% · base 24.2%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (615.89, 146.98) → dx +3.5% · dy -0.3%
+Simetria espelhada: horizontal 29.1% · vertical 82.0%
+Cobertura: 20.4% do canvas · 45.3% da bbox
+Cores sólidas: #14100c 89.7% · #c8442c 10.2%
+Avisos:
+  - Logo muito escuro: tende a sumir em fundo escuro — prever versão invertida.
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\spicchio\sheet.png

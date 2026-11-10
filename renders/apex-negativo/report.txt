@@ -1,0 +1,14 @@
+=== apex-negativo.svg ===
+viewBox: 0 0 520 560
+Caixa do desenho (bbox, unidades do viewBox): x=126.99 y=79.84 w=266.02 h=425.47
+Margens: esq 24.4% · dir 24.4% · topo 14.3% · base 9.8%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +2.2%
+Centro de massa visual: (258.52, 298.55) → dx -0.3% · dy +3.3%
+Simetria espelhada: horizontal 81.9% · vertical 13.2%
+Cobertura: 10.7% do canvas · 27.5% da bbox
+Cores sólidas: #f4f0ec 97.2% · #fc4c18 2.8%
+Mudança vs versão anterior: 89.8% da área (diff.png: verde = adicionado, vermelho = removido, âmbar = cor mudou)
+Avisos:
+  - Bbox fora do centro do canvas em mais de 1% (confira se é compensação óptica intencional).
+  - Logo muito claro: tende a sumir em fundo branco — prever versão escura.
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\apex-negativo\sheet.png | C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\apex-negativo\diff.png

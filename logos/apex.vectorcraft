@@ -1,0 +1,4615 @@
+{
+  "format": "vectorcraft",
+  "version": 4,
+  "generator": "VectorCraft 0.23.0",
+  "pdfCompatible": true,
+  "pdf": {
+    "mime": "application/pdf",
+    "data": "JVBERi0xLjcKJYCAgIAKCjEgMCBvYmoKPDwvVHlwZS9QYWdlcy9Db3VudCA1L0tpZHNbNyAwIFIgOCAwIFIgOSAwIFIgMTAgMCBSIDExIDAgUl0+PgplbmRvYmoKMiAwIG9iago8PC9Qcm9jU2V0Wy9QREYvVGV4dC9JbWFnZUMvSW1hZ2VCXT4+CmVuZG9iagozIDAgb2JqCjw8L1Byb2NTZXRbL1BERi9UZXh0L0ltYWdlQy9JbWFnZUJdPj4KZW5kb2JqCjQgMCBvYmoKPDwvUHJvY1NldFsvUERGL1RleHQvSW1hZ2VDL0ltYWdlQl0+PgplbmRvYmoKNSAwIG9iago8PC9Qcm9jU2V0Wy9QREYvVGV4dC9JbWFnZUMvSW1hZ2VCXT4+CmVuZG9iago2IDAgb2JqCjw8L1Byb2NTZXRbL1BERi9UZXh0L0ltYWdlQy9JbWFnZUJdPj4KZW5kb2JqCjcgMCBvYmoKPDwvVHlwZS9QYWdlL1Jlc291cmNlcyAyIDAgUi9NZWRpYUJveFswIDAgMjUwIDI2MF0vQmxlZWRCb3hbMCAwIDI1MCAyNjBdL1RyaW1Cb3hbMCAwIDI1MCAyNjBdL1BhcmVudCAxIDAgUi9Db250ZW50cyAxMiAwIFI+PgplbmRvYmoKOCAwIG9iago8PC9UeXBlL1BhZ2UvUmVzb3VyY2VzIDMgMCBSL01lZGlhQm94WzAgMCA1MTIgNTEyXS9CbGVlZEJveFswIDAgNTEyIDUxMl0vVHJpbUJveFswIDAgNTEyIDUxMl0vUGFyZW50IDEgMCBSL0NvbnRlbnRzIDEzIDAgUj4+CmVuZG9iago5IDAgb2JqCjw8L1R5cGUvUGFnZS9SZXNvdXJjZXMgNCAwIFIvTWVkaWFCb3hbMCAwIDUyMCA1NjBdL0JsZWVkQm94WzAgMCA1MjAgNTYwXS9UcmltQm94WzAgMCA1MjAgNTYwXS9QYXJlbnQgMSAwIFIvQ29udGVudHMgMTQgMCBSPj4KZW5kb2JqCjEwIDAgb2JqCjw8L1R5cGUvUGFnZS9SZXNvdXJjZXMgNSAwIFIvTWVkaWFCb3hbMCAwIDYzMCAzMDBdL0JsZWVkQm94WzAgMCA2MzAgMzAwXS9UcmltQm94WzAgMCA2MzAgMzAwXS9QYXJlbnQgMSAwIFIvQ29udGVudHMgMTUgMCBSPj4KZW5kb2JqCjExIDAgb2JqCjw8L1R5cGUvUGFnZS9SZXNvdXJjZXMgNiAwIFIvTWVkaWFCb3hbMCAwIDUyMCA1NjBdL0JsZWVkQm94WzAgMCA1MjAgNTYwXS9UcmltQm94WzAgMCA1MjAgNTYwXS9QYXJlbnQgMSAwIFIvQ29udGVudHMgMTYgMCBSPj4KZW5kb2JqCjEyIDAgb2JqCjw8L0xlbmd0aCAxODUvRmlsdGVyL0ZsYXRlRGVjb2RlPj4Kc3RyZWFtCnicbY+7bcRADERzVTENHMHhb7lluAYD9gWrwO4/MCScAMtwRoLzHoZfIBSKB/EYCXfF+w4VKmfp6Po7c1QMLXx/ghliRrBSzNQDO0wVQ7FgkTLG/HVc59FMpb0ysf4RrO2JV40djJQyHwW2C9WyD6hbPDgC5qeEKoxUntS68MNkpFS21RndYRnioyxuQrcXAespnTH72m/8YaS7RDGviudHMYXlcZSxKknvuIz3/Nqe28f29gMk5EqDCmVuZHN0cmVhbQplbmRvYmoKMTMgMCBvYmoKPDwvTGVuZ3RoIDIzNy9GaWx0ZXIvRmxhdGVEZWNvZGU+PgpzdHJlYW0KeJx1kcttAzEQQ+9bBRvwYD6aXxmpwUDig/bg9H8ItAicjZ2cREjzyCF0h4DBuAgugxkuiusOJmHp4Kx41pIxkgOfH1gAY0eLgjGPcxnM4+VHMeZ22963t+3+X1x7VGj6ksO5i8eS6qNZV1awkRQrVJwqRRU7wgPCQcyBieSikq7TyDxGtJh4HOv8YTO3G1yEMh2DnboHdngbaXBCLcjZMhc9lHxUQjvIyjDhrmTq9kDni9kKiGgaLvYgd6QUpbX9SihmUj2xSG+KHHm6ejE7KmSTavapw+puopQ6ajmZUqbKedVn6PujvgBSZWvYCmVuZHN0cmVhbQplbmRvYmoKMTQgMCBvYmoKPDwvTGVuZ3RoIDg3Mi9GaWx0ZXIvRmxhdGVEZWNvZGU+PgpzdHJlYW0KeJytlkuO3UYMRee9itqAL/gvchlZg4HEg/bA2f8gYJWkJ3U3kIE9ezyv+KlLUtKvwYMGjW88vjERDQ8a338OAhNX0Mz4+Jtn2KQY//4zWIQhYYOD4JM5x8/BEjSSQEQ+3gdLJabG7UzDoCE0EUppC3yK9P72YzC7QZRlSBWqylcCVlSWD56OSSKxIjiB1W0IF4JdVnZORUXdArx/FXUlkyhkWNwi/BysFCCmD9k0HDMyH3FVA6T0hF9E3dlIEZX+vFrrogyvip2HA0rsz5CfXN/ffrz9/fbX26/f6yfLhKYMM+pq2AzlNnQGJq0+8TTkB1QCk1hO6wSDjhhtRmK2qQSX7eAEm/ZAlpB4xbjVccyBouYwdiTZqi0cXHahFbdQPrQui0Ve5iPCHxJMSMAzT8FO86aOqCGegokmMuNCLCaQaXPonGDLyGaGlKEzQZrje5MJ3aESJVOXZ0FZYmgSpGSvQYQMTQGrLEcXELMN7WWY65CguL0CsoFCZ4MCnV6K1BhajLkjGygaOMi6WzfUTbbttpG1FD71CJ4Rcxh1z1R1M4scRhNZV0KK0mFM8KKYu9DeOGNB0cpIKM1hbMhTl0L4MA7MdrHZa9o+CbHObw6qBgXxXaUJLHt8hNbgsWiBKOcic2lydO4E7SaKbv2J3m9oT+59IPaan/+TY85YUyIB97zQijJRNPViLJKo8IOwrRql0Io28kM0JVh12eSwqKWt9gbydu1iFrFOaJi8RVNGzuVnEF9nemBaflL4GkEVSHQ6QdjhJtC0vg5jynHIFiCYvez7SFxogk+fFaVHKekoeifT6rm/kq2KtBRpsWs66m7Gxud9LYeWYPKhyqFAM0kJvynVjCgWOwTtGc+j2FP3NffRK/TqzmKvBm7zNhcb3KfibPEfetxEQPh62mzr9mRRFvjz+XOhvnXsl29O9AvpC9RddF2DrZRrW75C7HB5On6BxBAa9yK+QsfevG72h7RSEVS/ZbZYagyuYZTgfWcVhZo8xLK5h/CGvHfGlljHBdUd3o43FAr94JjxCUXCuSWd2G4ZCL1E0OgJfpluyGrVFLWBrhfHC5hfd3x/Xvn/VORB/WFRQflQ8fwMsOG0p8xp/dyfWMP3V9155GH8XlaZO1E3qwRxZj2N/emzDt1+Xjn/A4j7I94KZW5kc3RyZWFtCmVuZG9iagoxNSAwIG9iago8PC9MZW5ndGggODYzL0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp4nK2WSY4kNwxF93UKXaA/OInDMXyGAuxeZC3a918YVGRGKKoKMGD3LvXASZ8MKn8NHjRo/ODxg51oKNF4/xgEJi6nSP/8m8MtyMfffw0OVVSaDhZGUZqPj8ERhPJhhqoaj8FJgdIZm9njNGN3pJTnYl8DPt5+tk2hKnzInCDilUYCZKSD1aGT64jqjGnqgyMhXrOhV0LT5HR/fBNyJYokaLhe7h+Dkw0ZXeueKYNRInMPmqaYOmtnX0MemTgg7JfppRxnIahUVkgxBCnfQn72fbz9fPvz7Y+3X/+vn6WM6jLAZl1QmSMqB4vCVocqBGw3kt0HP90aeaLmnUS3Abzqr8mwyJ1Yweke5FbM0qymwUwGT4frKtAVNfNFVuzCZBmseUaaieQ7uQX6XfLVhLLdBHyhl1xCIshdQCFxrIk9iJAUlGqdc8YQUoa1gGJw5vHeSOEyB8uE+mwwIdFBHFOkgaNvKAlKOXwC07uWgvfHQJpQbWEYs54gpIGix285dYsaOSSWTVfX30KBJDdggtPlABPkzxAagy3gas80VYOt+gs6fBLmPHgKhI9ao4dqGjj0uI5PGzwn8qXBxPRuYsCsDlGqa50Jr6dwQQ0Kc87lJAUrHuwE4w7cgtk6rw1x9ucJ2ocV0/1Ejw1t8/qp+z2xl50lWHJ8NJq94060osX6+UJCnKBuryWod1QDjwaBimdVBV02gfTlVEhuWQO+RBQC99q1gOihmRCsP01zpD1tgrtAh8zOJISU1TwLf/mUdMEGr6dJb042hZPt4DUCJyD04rxiaMEjrzSa6C3/vlWiCWLbatWAsW/30QDNU4R15x6PzE2VHv9pm3Jrdx8+T3F7pM03+dXBZVuLnmCfgSfaZ+DVyN+yRYTWKpRti1zo2hmZqPteeRF1TOoXSsgD0V34BnXr8hjlnJAe+G/QdGjdHb9BbmC+F/ENOr+ULzf8XcJVILqNl3DMCo5eET05R9WVoF045oTu2q41q8c45HHVtWbtRvp1it1rvWk76IHrMFbI4+JtE3TTouOY3FG/+NUiKuwYtY5a/URsqP8DbLd9fBXg33TlQdClZt50vf4KiPQ/OiE1qMY6dp7XUY+3+zC9Hdrwv2cXmlfCbuN0RNgr/3lcKS/jT8erhn8A9fYojwplbmRzdHJlYW0KZW5kb2JqCjE2IDAgb2JqCjw8L0xlbmd0aCA4NzkvRmlsdGVyL0ZsYXRlRGVjb2RlPj4Kc3RyZWFtCnicrZZLbuU4DEXnWYU2UBcU/1xGr6GA7hq8DKr3P2hQsv38kgA9qMzEY/GjS8r27zEHDRo/5vjBTjTMafx8H4QyT+ewXqpRJWkv2bSIx7//DE6eYFce0wkWc+Z4H5xOIwlEZOMxOCsRYnnb1NRpMAVcKHWBz7Eeb78GhylYJg+uQlXZSjEFlWVjhiGI2VcII0wxGTwLPo1X/khBed0CPL6KupKlF9I1bhHeBxc5aNKHbOWG8MyXuCUOEnqFX0Td2UjglfZ6tBZGJqzKd57pEJr2GvKT6+Pt19vfb3+9/f6DfgYHJHmoUpcSqijTIeEIWl2KUOQHVAxlX05rxwQdMdr0RLQpBOPtYAQNfUGaYH/GuNVxDIGgYug0dNVdmxtm6YVW3ELZkLqsyfw0XyJ8h1pJjBl5qnWaN2lSFP6qVkoi0y/EqQwOjSERmJqezRTJQyJBkuNnk4C4bVYcsjwLMjmGJIF7wPsCuPOQZEzh5WgMmrNZC7A2MWr6kHTwBgKJBgU6vQQpPqQmYkdWkDcwkHarbqg7rNttI20pLOQInu4xlLphIrKZeg6lQNaVkLxk6CRYkccutO+aTkbRykgoyaFTkacuBbeh0xHtotEXtH0SrJ1fDVQNCmy7SmVodi6mNXWcUiBKWySWJkfnTtBuLAjyCz1uaI/tfSD2BT+fkyHC15SwwywvtKIEioIvxsmJcpNNpq4audCKNrJDNCFo5Q6mXktb6es3t2sXs4j2HkXMLZpMZGT3RMG29vTA9HUiga0RFAZ7p2O4Hm4MyRVqIvjYpNrnI6g+7ftIXCgwT58VpUcp6Sh6J5Pqub+SrYqkBKm+azrqbjZ1nuddwRgxD1UOBZq13nZTqhmRL3YI2jOeR7Gn7mvuva/QszuLPRu4zdtcbHCfirPF3/GucQfP61WzrdtrpSbDXl8+F+oj+/7oZsBXMz6hbqHJmuqiXFflKzQNxq+OXyBWuPi9iK/QcWmeJ/sOoYoZ1R+XrVTpxKyhlJj7wMUCUX5RSmOP3w1Z35aePj5PV2awdrwhF8gHx/RPyBM2W8/AdkuHy6VAec/u0zRFVksmqA1kfTKeQO064+P1yP8n4RzUPxPllIMw1yrSr6+/DqM9YkZruX+rhu1/uXPLi/FnWTN2om5WMfzMehr7d2dtui2vnP8B1P0llAplbmRzdHJlYW0KZW5kb2JqCjE3IDAgb2JqCjw8L1RpdGxlKFVudGl0bGVkLTEpL0NyZWF0b3IoVmVjdG9yQ3JhZnQpL1Byb2R1Y2VyKFZlY3RvckNyYWZ0KS9Nb2REYXRlKEQ6MjAyNjExMTAxMTE3MTRaKS9DcmVhdGlvbkRhdGUoRDoyMDI2MTExMDExMDMxNFopPj4KZW5kb2JqCjE4IDAgb2JqCjw8L0xlbmd0aCAxMDYwL1R5cGUvTWV0YWRhdGEvU3VidHlwZS9YTUw+PgpzdHJlYW0KPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz48eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJ4bXAtd3JpdGVyIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiAgeG1sbnM6eG1wVFBnPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvdC9wZy8iICB4bWxuczpwZGY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGRmLzEuMy8iID48ZGM6dGl0bGU+PHJkZjpBbHQ+PHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ij5VbnRpdGxlZC0xPC9yZGY6bGk+PC9yZGY6QWx0PjwvZGM6dGl0bGU+PHhtcDpDcmVhdG9yVG9vbD5WZWN0b3JDcmFmdDwveG1wOkNyZWF0b3JUb29sPjxwZGY6UHJvZHVjZXI+VmVjdG9yQ3JhZnQ8L3BkZjpQcm9kdWNlcj48eG1wOk1vZGlmeURhdGU+MjAyNi0xMS0xMFQxMToxNzoxNCswMDowMDwveG1wOk1vZGlmeURhdGU+PHhtcDpDcmVhdGVEYXRlPjIwMjYtMTEtMTBUMTE6MDM6MTQrMDA6MDA8L3htcDpDcmVhdGVEYXRlPjx4bXBUUGc6TlBhZ2VzPjU8L3htcFRQZzpOUGFnZXM+PGRjOmZvcm1hdD5hcHBsaWNhdGlvbi9wZGY8L2RjOmZvcm1hdD48eG1wTU06SW5zdGFuY2VJRD5mdmZSTXJra0RuSmVnalVVcWJjcGRRPT08L3htcE1NOkluc3RhbmNlSUQ+PHhtcE1NOkRvY3VtZW50SUQ+ZnZmUk1ya2tEbkplZ2pVVXFiY3BkUT09PC94bXBNTTpEb2N1bWVudElEPjx4bXBNTTpSZW5kaXRpb25DbGFzcz5kZWZhdWx0PC94bXBNTTpSZW5kaXRpb25DbGFzcz48cGRmOlBERlZlcnNpb24+MS43PC9wZGY6UERGVmVyc2lvbj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+PD94cGFja2V0IGVuZD0iciI/PgplbmRzdHJlYW0KZW5kb2JqCjE5IDAgb2JqCjw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAxIDAgUi9NZXRhZGF0YSAxOCAwIFI+PgplbmRvYmoKeHJlZgowIDIwCjAwMDAwMDAwMDAgNjU1MzUgZg0KMDAwMDAwMDAxNiAwMDAwMCBuDQowMDAwMDAwMDkzIDAwMDAwIG4NCjAwMDAwMDAxNDYgMDAwMDAgbg0KMDAwMDAwMDE5OSAwMDAwMCBuDQowMDAwMDAwMjUyIDAwMDAwIG4NCjAwMDAwMDAzMDUgMDAwMDAgbg0KMDAwMDAwMDM1OCAwMDAwMCBuDQowMDAwMDAwNDk4IDAwMDAwIG4NCjAwMDAwMDA2MzggMDAwMDAgbg0KMDAwMDAwMDc3OCAwMDAwMCBuDQowMDAwMDAwOTE5IDAwMDAwIG4NCjAwMDAwMDEwNjAgMDAwMDAgbg0KMDAwMDAwMTMxNCAwMDAwMCBuDQowMDAwMDAxNjIwIDAwMDAwIG4NCjAwMDAwMDI1NjEgMDAwMDAgbg0KMDAwMDAwMzQ5MyAwMDAwMCBuDQowMDAwMDA0NDQxIDAwMDAwIG4NCjAwMDAwMDQ1ODIgMDAwMDAgbg0KMDAwMDAwNTcxOSAwMDAwMCBuDQp0cmFpbGVyCjw8L1NpemUgMjAvUm9vdCAxOSAwIFIvSW5mbyAxNyAwIFIvSURbKGZ2ZlJNcmtrRG5KZWdqVVVxYmNwZFE9PSkoZnZmUk1ya2tEbkplZ2pVVXFiY3BkUT09KV0+PgpzdGFydHhyZWYKNTc4MQolJUVPRg=="
+  },
+  "document": {
+    "version": 3,
+    "title": "Untitled-1",
+    "units": "Points",
+    "rulers": "artboard",
+    "color_mode": "Rgb",
+    "artboards": [
+      {
+        "id": 1,
+        "name": "simbolo",
+        "rect": {
+          "x0": 75.0,
+          "y0": 70.0,
+          "x1": 325.0,
+          "y1": 330.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      },
+      {
+        "id": 2,
+        "name": "app",
+        "rect": {
+          "x0": 400.0,
+          "y0": 0.0,
+          "x1": 912.0,
+          "y1": 512.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      },
+      {
+        "id": 3,
+        "name": "principal",
+        "rect": {
+          "x0": 1000.0,
+          "y0": 0.0,
+          "x1": 1520.0,
+          "y1": 560.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      },
+      {
+        "id": 4,
+        "name": "horizontal",
+        "rect": {
+          "x0": 1600.0,
+          "y0": 0.0,
+          "x1": 2230.0,
+          "y1": 300.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      },
+      {
+        "id": 5,
+        "name": "negativo",
+        "rect": {
+          "x0": 2600.0,
+          "y0": 0.0,
+          "x1": 3120.0,
+          "y1": 560.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      }
+    ],
+    "layers": [
+      {
+        "id": 1,
+        "name": "Layer 1",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 0
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 18,
+              "name": "app-bg",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.11764706
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            400.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            912.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            912.0,
+                            512.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            400.0,
+                            512.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 512.0,
+                  "h": 512.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    400.0,
+                    0.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 6,
+              "name": "apex-mass",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.11764706
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "compound",
+                "children": [
+                  {
+                    "id": 7,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  154.22099245383862,
+                                  165.2203356960157
+                                ]
+                              },
+                              {
+                                "p": [
+                                  200.0,
+                                  70.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  245.77900754616138,
+                                  165.22033569601567
+                                ]
+                              },
+                              {
+                                "p": [
+                                  200.0,
+                                  220.83655136268342
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 8,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  75.0,
+                                  330.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  145.62375768295942,
+                                  183.1025840194444
+                                ]
+                              },
+                              {
+                                "p": [
+                                  188.34173425366697,
+                                  235.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  110.14501294219156,
+                                  330.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 9,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  211.65826574633306,
+                                  235.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  254.37624231704058,
+                                  183.1025840194444
+                                ]
+                              },
+                              {
+                                "p": [
+                                  325.0,
+                                  330.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  289.85498705780844,
+                                  330.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 10,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  133.46154443485764,
+                                  330.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  200.00000000000003,
+                                  249.16344863731655
+                                ]
+                              },
+                              {
+                                "p": [
+                                  266.5384555651424,
+                                  330.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "rule": "NonZero"
+              }
+            },
+            {
+              "id": 29,
+              "name": "apex-mass",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.11764706
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "compound",
+                "children": [
+                  {
+                    "id": 30,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1733.9842956049656,
+                                  121.90846514167188
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1770.96,
+                                  44.99900000000001
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1807.9357043950345,
+                                  121.90846514167185
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1770.96,
+                                  166.8296825356394
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 31,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1669.9975,
+                                  255.00099999999998
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1727.0403090805264,
+                                  136.35195711250526
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1761.5436187566868,
+                                  178.2695
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1698.3841269534082,
+                                  255.00099999999998
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 32,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1780.3763812433133,
+                                  178.2695
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1814.8796909194737,
+                                  136.35195711250526
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1871.9225000000001,
+                                  255.00099999999998
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1843.5358730465919,
+                                  255.00099999999998
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 33,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1717.2168894400345,
+                                  255.00099999999998
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1770.96,
+                                  189.70931746436057
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1824.7031105599656,
+                                  255.00099999999998
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "rule": "NonZero"
+              }
+            },
+            {
+              "id": 19,
+              "name": "apex-mass",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.11764706
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "compound",
+                "children": [
+                  {
+                    "id": 20,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1221.2640927648156,
+                                  160.5711870491837
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1260.0,
+                                  80.00050000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1298.7359072351844,
+                                  160.57118704918366
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1260.0,
+                                  207.63084793553458
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 21,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1154.23125,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1213.989542563436,
+                                  175.70225146805288
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1250.1353584387402,
+                                  219.61525
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1183.9692027010353,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 22,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1269.8646415612598,
+                                  219.61525
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1306.010457436564,
+                                  175.70225146805288
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1365.76875,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1336.0307972989647,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 23,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1203.6984858235548,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1260.0,
+                                  231.5996520644654
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1316.3015141764454,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "rule": "NonZero"
+              }
+            },
+            {
+              "id": 40,
+              "name": "apex-mass",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.95686275,
+                        "g": 0.94509804,
+                        "b": 0.9254902
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "compound",
+                "children": [
+                  {
+                    "id": 41,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2821.2640927648154,
+                                  160.5711870491837
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2860.0,
+                                  80.00050000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2898.7359072351846,
+                                  160.57118704918366
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2860.0,
+                                  207.63084793553458
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 42,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2754.23125,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2813.989542563436,
+                                  175.70225146805288
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2850.1353584387402,
+                                  219.61525
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2783.969202701035,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 43,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2869.8646415612598,
+                                  219.61525
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2906.010457436564,
+                                  175.70225146805288
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2965.76875,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2936.030797298965,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 44,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2803.6984858235546,
+                                  299.9995
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2860.0,
+                                  231.5996520644654
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2916.3015141764454,
+                                  299.9995
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "rule": "NonZero"
+              }
+            },
+            {
+              "id": 13,
+              "name": "apex-mass",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.95686275,
+                        "g": 0.94509804,
+                        "b": 0.9254902
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "compound",
+                "children": [
+                  {
+                    "id": 14,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  603.180181093239,
+                                  215.8712233260629
+                                ]
+                              },
+                              {
+                                "p": [
+                                  656.0,
+                                  106.006
+                                ]
+                              },
+                              {
+                                "p": [
+                                  708.819818906761,
+                                  215.87122332606288
+                                ]
+                              },
+                              {
+                                "p": [
+                                  656.0,
+                                  280.0412129622641
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 15,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  511.775,
+                                  405.99399999999997
+                                ]
+                              },
+                              {
+                                "p": [
+                                  593.2606916145986,
+                                  236.50376144163494
+                                ]
+                              },
+                              {
+                                "p": [
+                                  642.548692981881,
+                                  296.383
+                                ]
+                              },
+                              {
+                                "p": [
+                                  552.3253159327006,
+                                  405.99399999999997
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 16,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  669.4513070181191,
+                                  296.383
+                                ]
+                              },
+                              {
+                                "p": [
+                                  718.7393083854014,
+                                  236.50376144163494
+                                ]
+                              },
+                              {
+                                "p": [
+                                  800.225,
+                                  405.99399999999997
+                                ]
+                              },
+                              {
+                                "p": [
+                                  759.6746840672994,
+                                  405.99399999999997
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 17,
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  579.2279299689387,
+                                  405.99399999999997
+                                ]
+                              },
+                              {
+                                "p": [
+                                  656.0,
+                                  312.72478703773584
+                                ]
+                              },
+                              {
+                                "p": [
+                                  732.7720700310613,
+                                  405.99399999999997
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "rule": "NonZero"
+              }
+            },
+            {
+              "id": 56,
+              "kind": {
+                "type": "group",
+                "children": [
+                  {
+                    "id": 48,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 49,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1127.382,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1144.9540000000002,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1174.854,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1192.4260000000002,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1171.082,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1168.7820000000002,
+                                        430.524
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1150.4740000000002,
+                                        430.524
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1148.266,
+                                        440.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 50,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1153.97,
+                                        415.804
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1165.1940000000002,
+                                        415.804
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1159.95,
+                                        394.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1159.122,
+                                        394.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 51,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 52,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1202.178,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1202.178,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1234.654,
+                                        376.704
+                                      ],
+                                      "out": [
+                                        1238.8860000000002,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1244.8200000000002,
+                                        378.038
+                                      ],
+                                      "in": [
+                                        1242.2746666666667,
+                                        377.14866666666666
+                                      ],
+                                      "out": [
+                                        1247.3653333333334,
+                                        378.9273333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1250.662,
+                                        382.132
+                                      ],
+                                      "in": [
+                                        1249.3126666666667,
+                                        380.29200000000003
+                                      ],
+                                      "out": [
+                                        1252.0113333333334,
+                                        383.972
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1253.3760000000002,
+                                        389.032
+                                      ],
+                                      "in": [
+                                        1252.9160000000002,
+                                        386.272
+                                      ],
+                                      "out": [
+                                        1253.836,
+                                        391.79200000000003
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1254.066,
+                                        398.784
+                                      ],
+                                      "in": [
+                                        1254.066,
+                                        395.04266666666666
+                                      ],
+                                      "out": [
+                                        1254.066,
+                                        402.1573333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1253.468,
+                                        407.892
+                                      ],
+                                      "in": [
+                                        1253.8666666666668,
+                                        405.1933333333333
+                                      ],
+                                      "out": [
+                                        1253.0693333333334,
+                                        410.59066666666666
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1250.938,
+                                        414.838
+                                      ],
+                                      "in": [
+                                        1252.226,
+                                        412.906
+                                      ],
+                                      "out": [
+                                        1249.65,
+                                        416.77
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1245.096,
+                                        419.254
+                                      ],
+                                      "in": [
+                                        1247.7026666666668,
+                                        418.242
+                                      ],
+                                      "out": [
+                                        1242.4893333333334,
+                                        420.266
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1234.654,
+                                        420.772
+                                      ],
+                                      "in": [
+                                        1239.0086666666668,
+                                        420.772
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1223.7060000000001,
+                                        420.772
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1223.7060000000001,
+                                        440.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 53,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1223.7060000000001,
+                                        405.776
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1226.558,
+                                        405.776
+                                      ],
+                                      "out": [
+                                        1227.9073333333333,
+                                        405.776
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1229.732,
+                                        405.592
+                                      ],
+                                      "in": [
+                                        1228.9653333333333,
+                                        405.7146666666667
+                                      ],
+                                      "out": [
+                                        1230.4986666666668,
+                                        405.46933333333334
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1231.48,
+                                        404.718
+                                      ],
+                                      "in": [
+                                        1231.0813333333335,
+                                        405.178
+                                      ],
+                                      "out": [
+                                        1231.8786666666667,
+                                        404.258
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1232.2620000000002,
+                                        402.648
+                                      ],
+                                      "in": [
+                                        1232.1393333333335,
+                                        403.568
+                                      ],
+                                      "out": [
+                                        1232.3846666666668,
+                                        401.728
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1232.4460000000001,
+                                        398.784
+                                      ],
+                                      "in": [
+                                        1232.4460000000001,
+                                        400.44
+                                      ],
+                                      "out": [
+                                        1232.4460000000001,
+                                        397.128
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1232.2620000000002,
+                                        394.828
+                                      ],
+                                      "in": [
+                                        1232.3846666666668,
+                                        395.8093333333333
+                                      ],
+                                      "out": [
+                                        1232.1393333333335,
+                                        393.8466666666667
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1231.48,
+                                        392.712
+                                      ],
+                                      "in": [
+                                        1231.8786666666667,
+                                        393.14133333333336
+                                      ],
+                                      "out": [
+                                        1231.0813333333335,
+                                        392.28266666666667
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1229.732,
+                                        391.884
+                                      ],
+                                      "in": [
+                                        1230.4986666666668,
+                                        392.00666666666666
+                                      ],
+                                      "out": [
+                                        1228.9653333333333,
+                                        391.7613333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        1226.558,
+                                        391.7
+                                      ],
+                                      "in": [
+                                        1227.9073333333333,
+                                        391.7
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1223.7060000000001,
+                                        391.7
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 54,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1266.21,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1266.21,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1312.578,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1312.578,
+                                  392.068
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1287.6460000000002,
+                                  392.068
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1287.6460000000002,
+                                  400.532
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1308.2540000000001,
+                                  400.532
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1308.2540000000001,
+                                  415.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1287.6460000000002,
+                                  415.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1287.6460000000002,
+                                  424.636
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1312.578,
+                                  424.636
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1312.578,
+                                  440.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 55,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  1322.9740000000002,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1341.19,
+                                  408.168
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1323.342,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1347.2620000000002,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1354.714,
+                                  392.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1355.5420000000001,
+                                  392.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1363.362,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1386.362,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1368.5140000000001,
+                                  407.8
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1386.638,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1362.718,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1354.8980000000001,
+                                  423.9
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1353.886,
+                                  423.9
+                                ]
+                              },
+                              {
+                                "p": [
+                                  1345.9740000000002,
+                                  440.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "clip": false
+              }
+            },
+            {
+              "id": 65,
+              "kind": {
+                "type": "group",
+                "children": [
+                  {
+                    "id": 57,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.95686275,
+                              "g": 0.94509804,
+                              "b": 0.9254902
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 58,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        2727.382,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2744.954,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2774.8540000000003,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2792.426,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2771.082,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2768.782,
+                                        430.524
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2750.474,
+                                        430.524
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2748.266,
+                                        440.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 59,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        2753.9700000000003,
+                                        415.804
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2765.194,
+                                        415.804
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2759.9500000000003,
+                                        394.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2759.1220000000003,
+                                        394.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 60,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.95686275,
+                              "g": 0.94509804,
+                              "b": 0.9254902
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 61,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        2802.178,
+                                        440.0
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2802.178,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2834.654,
+                                        376.704
+                                      ],
+                                      "out": [
+                                        2838.886,
+                                        376.704
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2844.82,
+                                        378.038
+                                      ],
+                                      "in": [
+                                        2842.2746666666667,
+                                        377.14866666666666
+                                      ],
+                                      "out": [
+                                        2847.3653333333336,
+                                        378.9273333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2850.6620000000003,
+                                        382.132
+                                      ],
+                                      "in": [
+                                        2849.3126666666667,
+                                        380.29200000000003
+                                      ],
+                                      "out": [
+                                        2852.0113333333334,
+                                        383.972
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2853.376,
+                                        389.032
+                                      ],
+                                      "in": [
+                                        2852.916,
+                                        386.272
+                                      ],
+                                      "out": [
+                                        2853.8360000000002,
+                                        391.79200000000003
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2854.0660000000003,
+                                        398.784
+                                      ],
+                                      "in": [
+                                        2854.0660000000003,
+                                        395.04266666666666
+                                      ],
+                                      "out": [
+                                        2854.0660000000003,
+                                        402.1573333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2853.4680000000003,
+                                        407.892
+                                      ],
+                                      "in": [
+                                        2853.866666666667,
+                                        405.1933333333333
+                                      ],
+                                      "out": [
+                                        2853.0693333333334,
+                                        410.59066666666666
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2850.938,
+                                        414.838
+                                      ],
+                                      "in": [
+                                        2852.226,
+                                        412.906
+                                      ],
+                                      "out": [
+                                        2849.65,
+                                        416.77
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2845.096,
+                                        419.254
+                                      ],
+                                      "in": [
+                                        2847.7026666666666,
+                                        418.242
+                                      ],
+                                      "out": [
+                                        2842.4893333333334,
+                                        420.266
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2834.654,
+                                        420.772
+                                      ],
+                                      "in": [
+                                        2839.0086666666666,
+                                        420.772
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2823.706,
+                                        420.772
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2823.706,
+                                        440.0
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 62,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        2823.706,
+                                        405.776
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2826.558,
+                                        405.776
+                                      ],
+                                      "out": [
+                                        2827.9073333333336,
+                                        405.776
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2829.732,
+                                        405.592
+                                      ],
+                                      "in": [
+                                        2828.9653333333335,
+                                        405.7146666666667
+                                      ],
+                                      "out": [
+                                        2830.498666666667,
+                                        405.46933333333334
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2831.48,
+                                        404.718
+                                      ],
+                                      "in": [
+                                        2831.0813333333335,
+                                        405.178
+                                      ],
+                                      "out": [
+                                        2831.878666666667,
+                                        404.258
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2832.262,
+                                        402.648
+                                      ],
+                                      "in": [
+                                        2832.1393333333335,
+                                        403.568
+                                      ],
+                                      "out": [
+                                        2832.384666666667,
+                                        401.728
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2832.446,
+                                        398.784
+                                      ],
+                                      "in": [
+                                        2832.446,
+                                        400.44
+                                      ],
+                                      "out": [
+                                        2832.446,
+                                        397.128
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2832.262,
+                                        394.828
+                                      ],
+                                      "in": [
+                                        2832.384666666667,
+                                        395.8093333333333
+                                      ],
+                                      "out": [
+                                        2832.1393333333335,
+                                        393.8466666666667
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2831.48,
+                                        392.712
+                                      ],
+                                      "in": [
+                                        2831.878666666667,
+                                        393.14133333333336
+                                      ],
+                                      "out": [
+                                        2831.0813333333335,
+                                        392.28266666666667
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2829.732,
+                                        391.884
+                                      ],
+                                      "in": [
+                                        2830.498666666667,
+                                        392.00666666666666
+                                      ],
+                                      "out": [
+                                        2828.9653333333335,
+                                        391.7613333333333
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2826.558,
+                                        391.7
+                                      ],
+                                      "in": [
+                                        2827.9073333333336,
+                                        391.7
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2823.706,
+                                        391.7
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 63,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.95686275,
+                              "g": 0.94509804,
+                              "b": 0.9254902
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2866.21,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2866.21,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2912.578,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2912.578,
+                                  392.068
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2887.646,
+                                  392.068
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2887.646,
+                                  400.532
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2908.254,
+                                  400.532
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2908.254,
+                                  415.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2887.646,
+                                  415.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2887.646,
+                                  424.636
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2912.578,
+                                  424.636
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2912.578,
+                                  440.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 64,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.95686275,
+                              "g": 0.94509804,
+                              "b": 0.9254902
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2922.974,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2941.19,
+                                  408.168
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2923.342,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2947.262,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2954.714,
+                                  392.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2955.542,
+                                  392.528
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2963.362,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2986.362,
+                                  376.704
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2968.514,
+                                  407.8
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2986.638,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2962.718,
+                                  440.0
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2954.898,
+                                  423.9
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2953.886,
+                                  423.9
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2945.974,
+                                  440.0
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "clip": false
+              }
+            },
+            {
+              "id": 27,
+              "name": "accent-rule-l",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1127.4,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1250.0,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1250.0,
+                            505.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1127.4,
+                            505.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 122.59999999999991,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1127.4,
+                    500.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 46,
+              "name": "accent-rule-l",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            2727.4,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2850.0,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2850.0,
+                            505.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2727.4,
+                            505.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 122.59999999999991,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    2727.4,
+                    500.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 28,
+              "name": "accent-rule-r",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1270.0,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1392.6,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1392.6,
+                            505.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1270.0,
+                            505.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 122.59999999999991,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1270.0,
+                    500.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 47,
+              "name": "accent-rule-r",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            2870.0,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2992.6,
+                            500.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2992.6,
+                            505.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2870.0,
+                            505.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 122.59999999999991,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    2870.0,
+                    500.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 74,
+              "kind": {
+                "type": "group",
+                "children": [
+                  {
+                    "id": 66,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 67,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1931.8999999999999,
+                                        177.144
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1946.798,
+                                        123.48
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1972.148,
+                                        123.48
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1987.046,
+                                        177.144
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1968.95,
+                                        177.144
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1967.0,
+                                        169.11
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1951.478,
+                                        169.11
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1949.606,
+                                        177.144
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 68,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1954.442,
+                                        156.63
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1963.9579999999999,
+                                        156.63
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1959.512,
+                                        138.144
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1958.81,
+                                        138.144
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 69,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "compound",
+                      "children": [
+                        {
+                          "id": 70,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        1995.3139999999999,
+                                        177.144
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        1995.3139999999999,
+                                        123.48
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2022.848,
+                                        123.48
+                                      ],
+                                      "out": [
+                                        2026.436,
+                                        123.48
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2031.4669999999999,
+                                        124.611
+                                      ],
+                                      "in": [
+                                        2029.309,
+                                        123.857
+                                      ],
+                                      "out": [
+                                        2033.625,
+                                        125.36500000000001
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2036.42,
+                                        128.082
+                                      ],
+                                      "in": [
+                                        2035.276,
+                                        126.522
+                                      ],
+                                      "out": [
+                                        2037.5639999999999,
+                                        129.642
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2038.721,
+                                        133.93200000000002
+                                      ],
+                                      "in": [
+                                        2038.331,
+                                        131.592
+                                      ],
+                                      "out": [
+                                        2039.1109999999999,
+                                        136.272
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2039.306,
+                                        142.2
+                                      ],
+                                      "in": [
+                                        2039.306,
+                                        139.02800000000002
+                                      ],
+                                      "out": [
+                                        2039.306,
+                                        145.06
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2038.799,
+                                        149.922
+                                      ],
+                                      "in": [
+                                        2039.137,
+                                        147.63400000000001
+                                      ],
+                                      "out": [
+                                        2038.461,
+                                        152.21
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2036.654,
+                                        155.811
+                                      ],
+                                      "in": [
+                                        2037.7459999999999,
+                                        154.173
+                                      ],
+                                      "out": [
+                                        2035.562,
+                                        157.449
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2031.701,
+                                        159.555
+                                      ],
+                                      "in": [
+                                        2033.911,
+                                        158.697
+                                      ],
+                                      "out": [
+                                        2029.491,
+                                        160.413
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2022.848,
+                                        160.842
+                                      ],
+                                      "in": [
+                                        2026.54,
+                                        160.842
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2013.566,
+                                        160.842
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2013.566,
+                                        177.144
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "id": 71,
+                          "kind": {
+                            "type": "path",
+                            "path": {
+                              "subpaths": [
+                                {
+                                  "anchors": [
+                                    {
+                                      "p": [
+                                        2013.566,
+                                        148.12800000000001
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2015.984,
+                                        148.12800000000001
+                                      ],
+                                      "out": [
+                                        2017.128,
+                                        148.12800000000001
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2018.675,
+                                        147.972
+                                      ],
+                                      "in": [
+                                        2018.0249999999999,
+                                        148.07600000000002
+                                      ],
+                                      "out": [
+                                        2019.325,
+                                        147.868
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2020.157,
+                                        147.231
+                                      ],
+                                      "in": [
+                                        2019.819,
+                                        147.621
+                                      ],
+                                      "out": [
+                                        2020.495,
+                                        146.841
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2020.82,
+                                        145.476
+                                      ],
+                                      "in": [
+                                        2020.716,
+                                        146.256
+                                      ],
+                                      "out": [
+                                        2020.924,
+                                        144.696
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2020.9759999999999,
+                                        142.2
+                                      ],
+                                      "in": [
+                                        2020.9759999999999,
+                                        143.604
+                                      ],
+                                      "out": [
+                                        2020.9759999999999,
+                                        140.796
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2020.82,
+                                        138.846
+                                      ],
+                                      "in": [
+                                        2020.924,
+                                        139.678
+                                      ],
+                                      "out": [
+                                        2020.716,
+                                        138.014
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2020.157,
+                                        137.05200000000002
+                                      ],
+                                      "in": [
+                                        2020.495,
+                                        137.416
+                                      ],
+                                      "out": [
+                                        2019.819,
+                                        136.68800000000002
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2018.675,
+                                        136.35000000000002
+                                      ],
+                                      "in": [
+                                        2019.325,
+                                        136.454
+                                      ],
+                                      "out": [
+                                        2018.0249999999999,
+                                        136.246
+                                      ],
+                                      "kind": "Smooth"
+                                    },
+                                    {
+                                      "p": [
+                                        2015.984,
+                                        136.19400000000002
+                                      ],
+                                      "in": [
+                                        2017.128,
+                                        136.19400000000002
+                                      ]
+                                    },
+                                    {
+                                      "p": [
+                                        2013.566,
+                                        136.19400000000002
+                                      ]
+                                    }
+                                  ],
+                                  "closed": true
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "rule": "NonZero"
+                    }
+                  },
+                  {
+                    "id": 72,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2049.602,
+                                  177.144
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2049.602,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2088.9139999999998,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2088.9139999999998,
+                                  136.506
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2067.776,
+                                  136.506
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2067.776,
+                                  143.68200000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2085.248,
+                                  143.68200000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2085.248,
+                                  156.39600000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2067.776,
+                                  156.39600000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2067.776,
+                                  164.118
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2088.9139999999998,
+                                  164.118
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2088.9139999999998,
+                                  177.144
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": 73,
+                    "appearance": {
+                      "items": [
+                        {
+                          "kind": "fill",
+                          "paint": {
+                            "type": "solid",
+                            "color": {
+                              "model": "rgb",
+                              "r": 0.101960786,
+                              "g": 0.101960786,
+                              "b": 0.11764706
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "kind": {
+                      "type": "path",
+                      "path": {
+                        "subpaths": [
+                          {
+                            "anchors": [
+                              {
+                                "p": [
+                                  2097.728,
+                                  177.144
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2113.172,
+                                  150.156
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2098.04,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2118.32,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2124.638,
+                                  136.89600000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2125.34,
+                                  136.89600000000002
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2131.97,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2151.47,
+                                  123.48
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2136.3379999999997,
+                                  149.844
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2151.7039999999997,
+                                  177.144
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2131.424,
+                                  177.144
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2124.794,
+                                  163.494
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2123.936,
+                                  163.494
+                                ]
+                              },
+                              {
+                                "p": [
+                                  2117.228,
+                                  177.144
+                                ]
+                              }
+                            ],
+                            "closed": true
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "clip": false
+              }
+            },
+            {
+              "id": 36,
+              "name": "h-accent-l",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1931.9,
+                            226.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2034.337,
+                            226.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2034.337,
+                            231.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1931.9,
+                            231.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 102.4369999999999,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1931.9,
+                    226.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 37,
+              "name": "h-accent-r",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.3019608,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            2054.337,
+                            226.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2156.774,
+                            226.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2156.774,
+                            231.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            2054.337,
+                            231.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 102.4369999999999,
+                  "h": 5.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    2054.337,
+                    226.0
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "swatches": [
+      {
+        "name": "[None]",
+        "paint": {
+          "type": "none"
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Black",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.10980392,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.94509804,
+            "g": 0.3529412,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.96862745,
+            "g": 0.5764706,
+            "b": 0.11764706
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Amber",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9843137,
+            "g": 0.6901961,
+            "b": 0.23137255
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9882353,
+            "g": 0.93333334,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.8509804,
+            "g": 0.8784314,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Lime",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.7764706,
+            "b": 0.24705882
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.22352941,
+            "g": 0.70980394,
+            "b": 0.2901961
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Emerald",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.57254905,
+            "b": 0.27058825
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Teal",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.40784314,
+            "b": 0.21568628
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Aqua",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.13333334,
+            "g": 0.70980394,
+            "b": 0.4509804
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.6627451,
+            "b": 0.6156863
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.16078432,
+            "g": 0.67058825,
+            "b": 0.8862745
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Azure",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.44313726,
+            "b": 0.7372549
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Blue",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.18039216,
+            "g": 0.19215687,
+            "b": 0.57254905
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Indigo",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.105882354,
+            "g": 0.078431375,
+            "b": 0.39215687
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Violet",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4,
+            "g": 0.1764706,
+            "b": 0.5686275
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Purple",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.5764706,
+            "g": 0.15294118,
+            "b": 0.56078434
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Magenta",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.61960787,
+            "g": 0.0,
+            "b": 0.3647059
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rose",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.83137256,
+            "g": 0.078431375,
+            "b": 0.3529412
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Pink",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.11764706,
+            "b": 0.4745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Brown",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.78039217,
+            "g": 0.69803923,
+            "b": 0.6
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Tan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6,
+            "g": 0.5254902,
+            "b": 0.45882353
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Coffee",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4509804,
+            "g": 0.3882353,
+            "b": 0.34117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Chocolate",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3254902,
+            "g": 0.2784314,
+            "b": 0.25490198
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sand",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.7764706,
+            "g": 0.6117647,
+            "b": 0.42745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Copper",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6509804,
+            "g": 0.4862745,
+            "b": 0.32156864
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rust",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.38431373,
+            "b": 0.22352941
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Walnut",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.45882353,
+            "g": 0.29803923,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Espresso",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3764706,
+            "g": 0.21960784,
+            "b": 0.07450981
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Radial White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Radial",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sunset",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.83137256,
+                  "g": 0.078431375,
+                  "b": 0.3529412
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Ocean",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.16078432,
+                  "g": 0.67058825,
+                  "b": 0.8862745
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.18039216,
+                  "g": 0.19215687,
+                  "b": 0.57254905
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      }
+    ],
+    "swatch_groups": [
+      {
+        "name": "Grays",
+        "swatches": [
+          {
+            "name": "K=90",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.9
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=80",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.8
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=70",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.7
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=60",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.6
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=50",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.5
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=40",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.4
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=30",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.3
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=20",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.2
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=10",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.1
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      },
+      {
+        "name": "Brights",
+        "swatches": [
+          {
+            "name": "Bright Red",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.11372549,
+                "b": 0.14509805
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Yellow",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.9019608,
+                "b": 0.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Green",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.0,
+                "g": 0.9019608,
+                "b": 0.4627451
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Blue",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.16078432,
+                "g": 0.4745098,
+                "b": 1.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Violet",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.8352941,
+                "g": 0.0,
+                "b": 0.9764706
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      }
+    ],
+    "graphic_styles": [
+      {
+        "name": "Default Graphic Style",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 1,
+        "unit_box": true
+      },
+      {
+        "name": "Black Outline",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "none"
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 2,
+        "unit_box": true
+      },
+      {
+        "name": "Heavy Ink",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.105882354,
+                  "g": 0.078431375,
+                  "b": 0.39215687
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 4.0
+            }
+          ]
+        },
+        "id": 3,
+        "unit_box": true
+      },
+      {
+        "name": "Sunshine",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.94509804,
+                  "g": 0.3529412,
+                  "b": 0.14117648
+                }
+              },
+              "width": 2.0
+            }
+          ]
+        },
+        "id": 4,
+        "unit_box": true
+      }
+    ],
+    "symbols": [],
+    "guides": [],
+    "grid": {
+      "spacing": 72.0,
+      "subdivisions": 8
+    },
+    "raster_effects_ppi": 72.0,
+    "images": {},
+    "next_id": 75,
+    "metadata": {
+      "author": "",
+      "authorTitle": "",
+      "description": "",
+      "keywords": [],
+      "rating": 0,
+      "copyrightStatus": "unknown",
+      "copyrightNotice": "",
+      "copyrightUrl": "",
+      "created": 1794308594,
+      "modified": 1794309434
+    }
+  },
+  "images": {}
+}

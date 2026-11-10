@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "vectorcraft": {
+      "type": "stdio",
+      "command": "${VECTORCRAFT_CLI:-C:/Program Files/VectorCraft/vectorcraft-cli.exe}",
+      "args": [
+        "mcp"
+      ],
+      "env": {}
+    }
+  }
+}

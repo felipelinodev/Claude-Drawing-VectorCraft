@@ -1,0 +1,13 @@
+=== apex-simbolo.svg ===
+viewBox: 0 0 250 260
+Caixa do desenho (bbox, unidades do viewBox): x=0 y=0 w=250 h=260
+Margens: esq 0.0% · dir 0.0% · topo 0.0% · base 0.0%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (125, 170.76) → dx -0.0% · dy +15.7%
+Simetria espelhada: horizontal 100.0% · vertical 20.3%
+Cobertura: 39.8% do canvas · 39.8% da bbox
+Cores sólidas: #18181c 100.0%
+Avisos:
+  - O desenho encosta na borda do viewBox — pode estar cortado.
+  - Logo muito escuro: tende a sumir em fundo escuro — prever versão invertida.
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\apex-simbolo\sheet.png

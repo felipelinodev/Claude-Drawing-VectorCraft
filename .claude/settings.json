@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit|mcp__vectorcraft__.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/tools/hook.mjs\"",
+            "timeout": 180
+          }
+        ]
+      }
+    ]
+  }
+}

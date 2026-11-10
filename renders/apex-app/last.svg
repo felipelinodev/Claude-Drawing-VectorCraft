@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>app</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="app-bg" x="0" y="0" width="512" height="512" fill="#1a1a1e"/>
+    <path id="apex-mass" d="M203.18 215.87 L256 106.01 L308.82 215.87 L256 280.04 Z M111.77 405.99 L193.26 236.5 L242.55 296.38 L152.33 405.99 Z M269.45 296.38 L318.74 236.5 L400.23 405.99 L359.67 405.99 Z M179.23 405.99 L256 312.72 L332.77 405.99 Z" fill="#f4f1ec"/>
+  </g>
+</svg>

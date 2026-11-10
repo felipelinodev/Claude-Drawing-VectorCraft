@@ -1,0 +1,11 @@
+=== claude-drawing.svg ===
+viewBox: 0 0 560 560
+Caixa do desenho (bbox, unidades do viewBox): x=101.72 y=53.59 w=356.56 h=452.81
+Margens: esq 18.2% · dir 18.2% · topo 9.6% · base 9.6%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (277.49, 338.58) → dx -0.4% · dy +10.5%
+Simetria espelhada: horizontal 15.4% · vertical 5.7%
+Cobertura: 8.0% do canvas · 15.6% da bbox
+Cores sólidas: #1c1c18 78.5% · #d86438 21.5%
+Avisos: nenhum
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\claude-drawing\sheet.png

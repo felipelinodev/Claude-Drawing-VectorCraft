@@ -1,0 +1,11 @@
+=== spicchio-empilhado-negativo.svg ===
+viewBox: 0 0 820 660
+Caixa do desenho (bbox, unidades do viewBox): x=97.7 y=97.72 w=624.61 h=464.56
+Margens: esq 11.9% · dir 11.9% · topo 14.8% · base 14.8%
+Centro da bbox vs centro do canvas: dx +0.0% · dy +0.0%
+Centro de massa visual: (408.24, 317.35) → dx -0.2% · dy -1.9%
+Simetria espelhada: horizontal 66.3% · vertical 8.5%
+Cobertura: 15.8% do canvas · 29.5% da bbox
+Cores sólidas: #f0ece4 70.6% · #c8442c 29.0%
+Avisos: nenhum
+Imagens para abrir com Read: C:\Users\lino\Desktop\Claude Drawing VectorCraft\renders\spicchio-empilhado-negativo\sheet.png
